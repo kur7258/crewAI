@@ -11,6 +11,10 @@
 2. pip 24.1
 3. crewai 0.1.7
 
+# 준비물
+1. https://platform.openai.com/api-keys link 들어가서 OpenAI API Key 만들기.
+2. 위 링크 우측 상단 톱니바퀴 모양 클릭 -> 왼쪽 메뉴에서 'Billing' 클릭 -> 결제수단 등록 (등록용 5달러 필요)
+
 # 사용법
 1. **가상환경 생성** - python -m venv venv 
 2. **가상환경 실행** - (windows cmd 기준) cd venv/Scripts -> activate.bat

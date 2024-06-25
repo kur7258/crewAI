@@ -22,7 +22,7 @@ def main():
 
     result = crew.kickoff(
         inputs={
-            'company':'Apple'
+            'company':'Microsoft' # 분석할 회사 이름 입력
         }
     )
 
